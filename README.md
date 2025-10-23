@@ -7,7 +7,7 @@
 ## **Developers**
 | **Supervisor** | **Students** |
 |----------------|--------------|
-| **Ahmad Radhy, S.Si., M.Si.** | **Andik Putra Nazwana**<br>**ardo Surya Oktavia** |
+| **Ahmad Radhy, S.Si., M.Si.** | **Andik Putra Nazwana**<br>**Rany Surya Oktavia** |
 
 ---
 
