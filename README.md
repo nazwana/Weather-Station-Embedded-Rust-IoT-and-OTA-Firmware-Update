@@ -1,4 +1,4 @@
-# **IoT Environmental Monitoring System with ESP32-S3 & OTA Firmware Update**  
+# **Weather Station with ESP32-S3 & OTA Firmware Update (Thingsboard)**  
 ### *Internet of Things (IoT) Course Project*  
 **Department of Instrumentation Engineering, Vocational Faculty – Institut Teknologi Sepuluh Nopember (ITS)**  
 
@@ -12,7 +12,7 @@
 ---
 
 ## **Abstract**
-This IoT system enables **real-time environmental monitoring** using the **ESP32-S3** microcontroller programmed in **Rust `no_std`** — highly optimized for embedded systems. Sensor data from **BME280** (temperature, humidity, pressure) and **MQ-135** (CO₂ concentration) is transmitted to **ThingsBoard Cloud** via **MQTT**.
+This **Weather Station system** enables **real-time environmental monitoring** using the **ESP32-S3** microcontroller programmed in **Rust `no_std`** — highly optimized for embedded systems. Sensor data from **BME280** (temperature, humidity, pressure) and **MQ-135** (CO₂ concentration) is transmitted to **ThingsBoard Cloud** via **MQTT**.
 
 Key feature: **Over-the-Air (OTA) Firmware Updates** with **dual-partition safety**, **SHA256 checksum verification**, and **automatic rollback** — no physical access required.
 
@@ -54,7 +54,7 @@ Key feature: **Over-the-Air (OTA) Firmware Updates** with **dual-partition safet
 | **ESP32-S3** | Main MCU (WiFi, dual-core, rich peripherals) |
 | **BME280** | Environmental sensor (I²C): temp, humidity, pressure |
 | **MQ-135** | Gas sensor (ADC): CO₂, air quality |
-| **WiFi Antenna** | Network connectivity |
+| **WiFi** | Network connectivity |
 
 ---
 
@@ -230,7 +230,7 @@ MIT License © 2025 Andik Putra Nazwana & Rany Surya Oktavia
 ## **Contact**
 
 - **Email**: andiknazwana04@gmail.com  
-- **GitHub**: [github.com/andiknazwana](https://github.com/andiknazwana)  
+- **GitHub**: [github.com/andiknazwana](https://github.com/nazwana)  
 - **ThingsBoard Demo**: [demo.thingsboard.io](https://demo.thingsboard.io) *(use your token)*
 
 ---
