@@ -1,4 +1,3 @@
-```markdown
 # **Weather Station with ESP32‑S3 & OTA Firmware Update (ThingsBoard)**  
 ### *Internet of Things (IoT) Course Project*  
 **Department of Instrumentation Engineering, Vocational Faculty – Institut Teknologi Sepuluh Nopember (ITS)**  
